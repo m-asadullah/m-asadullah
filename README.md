@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **m-asadullah/m-asadullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# m-asadullah
+# @m-asadullah
 ### Hi there 👋
 
 - 🔭 I’m M. AsadUllah (محمد اسداللہ)
-- 🏢 I work at a open source platform called GitHub Community
-- 🌱 I blog about coding & life: https://bit.ly/m-asadullah
+- 🏢 I work at a open source platform called GitHub Community https://bit.ly/m-asadullah
+- 🌱 I blog about coding & life: https://medium.com/@m_asadullah
 - 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://nintendodispatch.com
 - 🦜 I’m on Twitter https://twitter.com/_MAsadUllah
 - 🎥 I make fun coding videos https://youtube.com/codixos
