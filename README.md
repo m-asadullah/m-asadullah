@@ -42,14 +42,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asadullah&layout=compact" />
 </a>
 
-<a href="https://github.com/m-asadullah/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-asadullah&repo=github-readme-stats" />
-</a>    
-<a href="https://github.com/m-asadullah/m-asadullah.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-asadullah&repo=m-asadullah.github.io" />
-</a>
-
-
 
