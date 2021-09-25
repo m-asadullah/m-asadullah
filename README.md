@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I blog about coding & life: https://medium.com/@m_asadullah
 - 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://nintendodispatch.com
 - 🦜 I’m on Twitter https://twitter.com/_MAsadUllah
-- 🎥 I make fun coding videos https://youtube.com/codixos
+- 🎥 I make fun coding videos https://youtube.com/
 - 🔴 I live stream on Friday: https://twitch.tv/m_asadullah
 - 📫 How to reach me: http://instagram/_masadullah
 - 😄 Pronouns: he/him/his
