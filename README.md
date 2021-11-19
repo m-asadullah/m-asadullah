@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/m-asadullah/maths-android">
     <img alt="Get it on Google Play"
         height="60"
+         align="justify"
         src="https://i.imgur.com/K0FWTYE.png"/>
 </a>
 
