@@ -56,3 +56,13 @@ Here are some ideas to get you started:
          align="center" 
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
+
+### Badges
+
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+[![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=15)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
+![Maven Central](https://img.shields.io/maven-central/v/io.github.shashank02051997/FancyToast)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-FancyToast-green.svg?style=flat )]( https://android-arsenal.com/details/1/6357 )
+<a href="https://www.linkedin.com/in/m-asadullah/">
+    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
