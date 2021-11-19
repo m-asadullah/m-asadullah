@@ -30,5 +30,29 @@ Here are some ideas to get you started:
 ### Latest releases are here
 
 <a href="https://github.com/m-asadullah/maths-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asadullah&layout=compact" />
+    <img alt="Get it on Google Play"
+        height="80"
+         align="center" 
+        src="https://i.imgur.com/K0FWTYE.png"/>
+</a>
+
+<a href="https://github.com/m-asadullah/maths-android">
+    <img alt="Get it on Google Play"
+        height="100"
+         align="center" 
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>
+
+<a href="https://github.com/m-asadullah/maths-android">
+    <img alt="Get it on Google Play"
+        height="80"
+         align="center" 
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>
+
+<a href="https://github.com/m-asadullah/maths-android">
+    <img alt="Get it on Google Play"
+        height="80"
+         align="center" 
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
