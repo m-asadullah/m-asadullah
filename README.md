@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # Project Updates
 ### Latest releases are here
 
-<a href="https://github.com/m-asadullah/maths-android" target="_blank">
+<a href="https://github.com/m-asadullah/maths-android" target="_blank" rel="noopener">
     <img alt="Get it on Google Play"
         height="60"
          align="center" 
