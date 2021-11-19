@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🤠 I’m M. AsadUllah (محمد اسداللہ)
 - 🏢 I work at a open source platform called GitHub Community https://bit.ly/m-asadullah
-- 🌱 I blog about coding & life: https://medium.com/@m_asadullah
+- 🌱 I blog about coding & life: https://medium.com/@m-asadullah
 - 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://nintendodispatch.com
 - 🦜 I’m on Twitter https://twitter.com/_MAsadUllah
 - 🎥 I make fun coding videos https://youtube.com/
