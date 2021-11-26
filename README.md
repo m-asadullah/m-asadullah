@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mathematics.
 - 👯 I’m looking to collaborate on my own projects.
 - 🤔 I’m looking for help with android.
-- 💬 Ask me about at m-asadullah@hotmail.com
+- 💬 Ask me at m-asadullah@hotmail.com
 - 📫 How to reach me: http://instagram/_masadullah
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Code You
