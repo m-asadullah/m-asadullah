@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 - 🏢 I work as hobbyist at a open source platform called GitHub & its Community <b>[`bit.ly/m-asadullah`](https://bit.ly/m-asadullah)</b>
 - 🌱 I blog about coding & life: <b>[`medium.com/@m-asadullah`](https://medium.com/@m-asadullah)</b>
 - 🎙 I have several podcasts: <b>[`mergeconflict.fm`](https://mergeconflict.fm)</b> , <b>[`blunders.fm`](https://blunders.fm)</b> , <b>[`nintendodispatch.com`](https://nintendodispatch.com)</b>
-- 🦜 I’m on Twitter https://twitter.com/_MAsadUllah
-- 🎥 I make fun coding videos https://youtube.com/
+- 🦜 I’m on Twitter <b>[`@_MAsadUllah`](https://twitter.com/_MAsadUllah)</b>
+- 🎥 I make fun coding videos <b>[`YouTube`](https://youtube.com/)</b>
 - 🔴 I live stream on Friday: https://twitch.tv/m_asadullah
 - 🔭 I’m currently working on open sources.
 - 🌱 I’m currently learning mathematics.
 - 👯 I’m looking to collaborate on my own projects.
 - 🤔 I’m looking for help with android.
 - 💬 Ask me at m-asadullah@hotmail.com
-- 📫 How to reach me: http://instagram/_masadullah
+- 📫 I'm post story on <b>[`Instagram`](http://instagram/_masadullah/)</b>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Code You
 
