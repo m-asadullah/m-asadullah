@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 🎙 I have several podcasts: <b>[`mergeconflict.fm`](https://mergeconflict.fm)</b> , <b>[`blunders.fm`](https://blunders.fm)</b> , <b>[`nintendodispatch.com`](https://nintendodispatch.com)</b>
 - 🦜 I’m on Twitter <b>[`@_MAsadUllah`](https://twitter.com/_MAsadUllah)</b>
 - 🎥 I make fun coding videos <b>[`YouTube`](https://youtube.com/)</b>
-- 🔴 I live stream on Friday: https://twitch.tv/m_asadullah
+- 🔴 I live stream on twitch <b>[`@m_asadullah`](https://twitch.tv/m_asadullah/)</b>
 - 🔭 I’m currently working on open sources.
 - 🌱 I’m currently learning mathematics.
 - 👯 I’m looking to collaborate on my own projects.
 - 🤔 I’m looking for help with android.
-- 💬 Ask me at m-asadullah@hotmail.com
-- 📫 I'm post story on <b>[`Instagram`](http://instagram/_masadullah/)</b>
+- 💬 Ask me at <b>[`email`](mailto://m-asadullah@hotmail.com)</b>
+- 📫 I'm post story on Instagram<b>[`@_masadullah`](http://instagram/_masadullah/)</b>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Code You
 
