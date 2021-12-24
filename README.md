@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 # @m-asadullah
 ### Hi there 👋
 
-- 🤠 I’m M. AsadUllah (محمد اسداللہ)
-- 🏢 I work at a open source platform called GitHub Community https://bit.ly/m-asadullah
-- 🌱 I blog about coding & life: https://medium.com/@m-asadullah
-- 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://nintendodispatch.com
+- 🤠 I’m <b>[`M. AsadUllah (محمد اسداللہ)`](https://www.google.com/search?q=github+m-asadullah)</b>
+- 🏢 I work as hobbyist at a open source platform called GitHub & its Community <b>[`bit.ly/m-asadullah`](https://bit.ly/m-asadullah)</b>
+- 🌱 I blog about coding & life: <b>[`medium.com/@m-asadullah`](https://medium.com/@m-asadullah)</b>
+- 🎙 I have several podcasts: <b>[`mergeconflict.fm`](https://mergeconflict.fm)</b> , <b>[`blunders.fm`](https://blunders.fm)</b> , <b>[`nintendodispatch.com`](https://nintendodispatch.com)</b>
 - 🦜 I’m on Twitter https://twitter.com/_MAsadUllah
 - 🎥 I make fun coding videos https://youtube.com/
 - 🔴 I live stream on Friday: https://twitch.tv/m_asadullah
