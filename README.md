@@ -29,32 +29,11 @@ Here are some ideas to get you started:
 # Project Updates
 ### Latest releases are here
 
-<a href="https://github.com/m-asadullah/maths-android">
-    <img alt="Get it on Google Play"
+<a href="https://github.com/mathsapp/maths-android">
+    <img alt="MathsApp"
         height="60"
          align="center"
         src="https://i.imgur.com/K0FWTYE.png"/>
-</a>
-
-<a href="https://github.com/m-asadullah/authotp-android">
-    <img alt="Get it on Google Play"
-        height="80"
-         align="center" 
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
-
-<a href="https://github.com/m-asadullah/files-android">
-    <img alt="Get it on Google Play"
-        height="80"
-         align="center" 
-        src="https://i.imgur.com/1yBKDPP.png" />
-</a>
-
-<a href="https://github.com/m-asadullah/toolkit-android">
-    <img alt="Get it on Google Play"
-        height="80"
-         align="center" 
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
 
 ### Badges
