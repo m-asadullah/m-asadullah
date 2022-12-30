@@ -36,6 +36,6 @@ Here are some ideas to get you started:
         src="https://i.imgur.com/K0FWTYE.png"/>
 </a>
 
-### Badges
+### Social Badges
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/_masadullah?color=black&label=M.%20AsadUllah%20%40cubixos&logo=Twitter&style=social)
