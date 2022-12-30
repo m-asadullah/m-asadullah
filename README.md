@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 # Project Updates
-### Latest releases are here
+### MathsApp is in beta stage. 
 
 <a href="https://github.com/mathsapp/maths-android">
     <img alt="MathsApp"
