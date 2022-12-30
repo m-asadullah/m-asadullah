@@ -38,8 +38,4 @@ Here are some ideas to get you started:
 
 ### Badges
 
-[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
-[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=21)
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-![Maven Central](https://img.shields.io/maven-central/v/io.github.shashank02051997/FancyToast)
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-FancyToast-green.svg?style=flat )]( https://android-arsenal.com/details/1/6357 )
+![Twitter Follow](https://img.shields.io/twitter/follow/_masadullah?color=black&label=M.%20AsadUllah%20%40cubixos&logo=Twitter&style=social)
