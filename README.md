@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on open sources.
 - 🌱 I’m currently learning mathematics and computer science.
 - 👯 I’m looking to collaborate on my own projects.
-- 🤔 I’m looking for help with android.
+- 🤔 I’m looking for help about android.
 - 💬 Ask me at <b>[`email`](mailto://)</b>
 - 📫 I'm post story on Instagram<b>[`@_masadullah`](http://instagram/_masadullah/)</b>
 - 😄 Pronouns: he/him/his
