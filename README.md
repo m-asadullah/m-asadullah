@@ -32,17 +32,24 @@ Here are some ideas to get you started:
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asadullah&layout=compact"/></a>
 </p>
 </p>
-  
-## Project Updates
-### MathsApp is in beta stage. 
 
+<p align="center">
+<h2 align="center">Updates</h2>
+<p align="center">Listed projects are in beta stage</p>
+<p align="center">
 <a href="https://github.com/mathsapp/maths-android">
     <img alt="MathsApp"
         height="60"
          align="center"
         src="https://i.imgur.com/K0FWTYE.png"/>
 </a>
+    </p>
+</p>
 
-## Social Badges
-
-![Twitter Follow](https://img.shields.io/twitter/follow/_masadullah?color=black&label=M.%20AsadUllah%20%40cubixos&logo=Twitter&style=social)
+<p align="center">
+<h2 align="center">Badges</h2>
+<p align="center">
+ <a href="https://twitter.com/_masadullah">
+        <img align="center" src="https://img.shields.io/twitter/follow/_masadullah?color=black&label=M.%20AsadUllah%20%40cubixos&logo=Twitter&style=social"/></a>
+</p>
+</p>
