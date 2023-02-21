@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">Stats of GitHub profile!</p>
 <p align="center">
     <a href="https://github.com/m-asadullah">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=m-asadullah&amp;show_icons=true&amp;include_all_commits=true" alt="M. Asad Ullah's github stats"></a>
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=m-asadullah&show_icons=true&include_all_commits=true&count_private=true" alt="M. Asad Ullah's github stats"></a>
     <a href="https://github.com/m-asadullah/m-asadullah">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asadullah&layout=compact"/></a>
 </p>
