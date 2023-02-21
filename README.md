@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<h2 align="center">Badges</h2>
+<h3 align="center">Badges</h3>
 <p align="center">
  <a href="https://twitter.com/_masadullah">
         <img align="center" src="https://img.shields.io/twitter/follow/_masadullah?color=black&label=M.%20AsadUllah%20%40cubixos&logo=Twitter&style=social"/></a>
