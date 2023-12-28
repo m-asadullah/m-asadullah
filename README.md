@@ -7,21 +7,23 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🤠 I’m <b>[`M. AsadUllah (محمد اسداللہ)`](https://www.google.com/search?q=github+m-asadullah)</b>
-- 🏢 I work as hobbyist at a open source platform called GitHub & its
-  Community <b>[`bit.ly/m-asadullah`](https://bit.ly/m-asadullah)</b>
-- 🌱 I blog about coding & life: <b>[`medium.com/@m-asadullah`](https://medium.com/@m-asadullah)</b>
-- 🎙 I have several
-  podcasts: <b>[`mergeconflict.fm`](https://mergeconflict.fm)</b> , <b>[`blunders.fm`](https://blunders.fm)</b> , <b>[`nintendodispatch.com`](https://nintendodispatch.com)</b>
-- 🦜 I’m on Twitter <b>[`@_MAsadUllah`](https://twitter.com/_MAsadUllah)</b>
-- 🎥 I make fun coding videos <b>[`youtube.com/@m-asadullah`](https://youtube.com/@m-asadullah)</b>
-- 🔴 I live stream on twitch <b>[`@m_asadullah`](https://twitch.tv/m_asadullah/)</b>
+- 🤠 I’m [`M. AsadUllah ↗️`](https://www.google.com/search?q=github+m-asadullah)
 - 🔭 I’m currently working on open sources.
 - 🌱 I’m currently learning mathematics and computer science.
-- 👯 I’m looking to collaborate on my own projects.
-- 🤔 I’m looking for help about android.
-- 💬 Ask me at <b>[`email`](mailto://)</b>
-- 📫 I'm post story on Instagram<b>[`@_masadullah`](http://instagram/_masadullah/)</b>
+- 🛠️ I’m looking to collaborate on my own projects.
+- 📝 I blog about programming on Medium [`@m-asadullah ↗️`](https://medium.com/@m-asadullah)
+- 🏀 I post shots on Dribbble [`@m-asadullah ↗️`](https://dribbble.com/m-asadullah)
+- 🖼️ I showcase shots on Bēhance [`@m-asadullah ↗️`](https://behance.net/m-asadullah)
+- 🎙 I have several
+  podcasts
+    - [`mergeconflict.fm`](https://mergeconflict.fm)
+    - [`blunders.fm`](https://blunders.fm)
+    - [`nintendodispatch.com`](https://nintendodispatch.com)
+- 🦜 I tweet on X (formerly Twitter) [`@_MAsadUllah ↗️`](https://twitter.com/_MAsadUllah)
+- 📫 I post story on Instagram [`@_masadullah ↗️`](http://instagram/_masadullah/)
+- 🎬 I live stream on twitch [`@m_asadullah ↗️`](https://twitch.tv/m_asadullah/)
+- 🎥 I make fun coding videos YouTube [`@m-asadullah ↗️`](https://youtube.com/@m-asadullah)
+- 💬 You feel free to ask me here at [`discussion ↗️`](https://github.com/m-asadullah/m-asadullah/discussions/1)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🎭
 
