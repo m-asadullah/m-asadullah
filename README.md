@@ -5,15 +5,16 @@ Here are some ideas to get you started:
 
 # @m-asadullah
 
-### Hi there 👋
+### Hi there 👋,
 
 - 🤠 I’m [`M. AsadUllah ↗️`](https://www.google.com/search?q=github+m-asadullah)
 - 🔭 I’m currently working on open sources.
 - 🌱 I’m currently learning mathematics and computer science.
 - 🛠️ I’m looking to collaborate on my own projects.
-- 📝 I blog about programming on Medium [`@m-asadullah ↗️`](https://medium.com/@m-asadullah)
+- 📑 I blog about programming on Medium [`@m-asadullah ↗️`](https://medium.com/@m-asadullah)
 - 🏀 I post shots on Dribbble [`@m-asadullah ↗️`](https://dribbble.com/m-asadullah)
-- 🖼️ I showcase shots on Bēhance [`@m-asadullah ↗️`](https://behance.net/m-asadullah)
+- 🖼️ I showcase scenery on Bēhance [`@m-asadullah ↗️`](https://behance.net/m-asadullah)
+- 📝 I note down some solutions in [`docsjava ↗️`](https://bit.ly/docsjava-github)
 - 🎙 I have several
   podcasts
     - [`mergeconflict.fm`](https://mergeconflict.fm)
@@ -27,6 +28,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🎭
 
+```Kotlin
+val profile = developer {
+    about {
+    name = "M. AsadUllah"
+    pronoun = "he/him"
+    title = "Developer"
+    }
+    tech("Java","Kotlin", "KMM", "KMP", "...")
+    links {
+    github= "m-asadullah"
+    x = "_masadullah"
+  }
+}
+```
+
 <p style="text-align:center">
 <h2 style="text-align:center">Overview</h2>
 <p style="text-align:center">Stats of GitHub profile!</p>
@@ -37,14 +53,9 @@ Here are some ideas to get you started:
         <img style="text-align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asadullah&layout=compact" alt="m-asadullah"/></a>
 </p>
 
-<p style="text-align:center"> 
-<a href="https://github.com/m-asadullah/m-asadullah">
-        <img style="text-align:center" src="https://ezgif.com/save/ezgif-3-b74f1b0bea.gif" alt="m-asadullah"/></a>
-</p>
-
 <p style="text-align:center">
 <h2 style="text-align:center">Updates</h2>
-<p style="text-align:center">Listed projects are in beta stage</p>
+<p style="text-align:center">Listed projects are in preview stage</p>
 <p style="text-align:center">
 <a href="https://github.com/mathsapp/maths-android">
     <img alt="MathsApp"
