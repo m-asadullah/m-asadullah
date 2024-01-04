@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 
 # @m-asadullah
 
+<a href="https://bit.ly/3H5j5M3"><img alt="Hits" src="https://hits.sh/github.com/m-asadullah.svg?view=today-total&logo=github" align="right"/></a>
+
 ### Hi there 👋,
 
 - 🤠 I’m [`M. AsadUllah ↗️`](https://www.google.com/search?q=github+m-asadullah)
@@ -31,15 +33,15 @@ Here are some ideas to get you started:
 ```Kotlin
 val profile = developer {
     about {
-    name = "M. AsadUllah"
-    pronoun = "he/him"
-    title = "Developer"
+        name = "M. AsadUllah"
+        pronoun = "he/him"
+        title = "Developer"
     }
-    tech("Java","Kotlin", "KMM", "KMP", "...")
+    tech("Java", "Kotlin", "KMM", "KMP", "...")
     links {
-    github= "m-asadullah"
-    x = "_masadullah"
-  }
+        github = "m-asadullah"
+        x = "_masadullah"
+    }
 }
 ```
 
