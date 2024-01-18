@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on open sources.
 - 🌱 I’m currently learning mathematics and computer science.
 - 🛠️ I’m looking to collaborate on my own projects.
-- 📑 I blog about programming on Medium [`@m-asadullah 🡥`](https://medium.com/@m-asadullah)
-- 🏀 I post shots on Dribbble [`@m-asadullah 🡥`](https://dribbble.com/m-asadullah)
-- 🖼️ I showcase scenery on Bēhance [`@m-asadullah 🡥`](https://behance.net/m-asadullah)
+- 📑 I blog about programming on Medium [`m-asadullah 🡥`](https://medium.com/@m-asadullah)
+- 🏀 I post shots on Dribbble [`m-asadullah 🡥`](https://dribbble.com/m-asadullah)
+- 🖼️ I showcase scenery on Bēhance [`m-asadullah 🡥`](https://behance.net/m-asadullah)
 - 📝 I note down some solutions in [`docsjava 🡥`](https://bit.ly/docsjava-github)
 - 🎙 I have several
   podcasts
     - [`mergeconflict.fm`](https://mergeconflict.fm)
     - [`blunders.fm`](https://blunders.fm)
     - [`nintendodispatch.com`](https://nintendodispatch.com)
-- 🦜 I tweet on X (formerly Twitter) [`@_MAsadUllah 🡥`](https://twitter.com/_MAsadUllah)
-- 📫 I post story on Instagram [`@_masadullah 🡥`](http://instagram/_masadullah/)
-- 🎬 I live stream on twitch [`@m_asadullah 🡥`](https://twitch.tv/m_asadullah/)
+- 🦜 I tweet on X (formerly Twitter) [`_MAsadUllah 🡥`](https://twitter.com/_MAsadUllah)
+- 📫 I post story on Instagram [`_masadullah 🡥`](http://instagram/_masadullah/)
+- 🎬 I live stream on twitch [`m_asadullah 🡥`](https://twitch.tv/m_asadullah/)
 - 🎥 I make fun coding videos YouTube [`@m-asadullah 🡥`](https://youtube.com/@m-asadullah)
 - 💬 You feel free to ask me here at [`discussion 🡥`](https://github.com/m-asadullah/m-asadullah/discussions/1)
 - 😄 Pronouns: he/him/his
