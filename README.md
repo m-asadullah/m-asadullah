@@ -44,7 +44,6 @@ val profile = developer {
     }
 }
 ```
-
 <p style="text-align:center">
 <h2 style="text-align:center">Overview</h2>
 <p style="text-align:center">Stats of GitHub profile!</p>
@@ -56,6 +55,7 @@ val profile = developer {
 </p>
 
 <p style="text-align:center">
+<a href="https://app.daily.dev/m_asadullah"><img src="https://api.daily.dev/devcards/v2/iEgyFKoV8YBLM8rkl4tb9.png?type=default&r=x98" width="356" alt="M. AsadUllah's Dev Card"/></a>
 <h2 style="text-align:center">Updates</h2>
 <p style="text-align:center">Listed projects are in preview stage</p>
 <p style="text-align:center">
